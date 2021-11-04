@@ -39,3 +39,42 @@
     color: #fff;
     background-color: brown;
 }
+
+.container-2 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 0;
+    background-color: #dcdcdc;
+    align: center;
+}
+
+.container-2 li {
+    display: inline-block;
+    text-align: center;
+    width: 45%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #3f3f3f;
+    border-radius: 10px;
+}
+
+.container-3 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 0;
+    background-color: #E5E4E2;
+}
+
+.container-3 li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #3f3f3f;
+    border-radius: 10px;
+}
